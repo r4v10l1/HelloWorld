@@ -1,5 +1,4 @@
-import time, sys, random, string
-
+import time, sys, random
 characters = ["q", "_\x9e", "©", "_®", "2", "_º", "³", "\x9d", "_3"]
 orders = ["0", "1", "2", "2", "3", "4", "5", "3", "6", "2", "7", "8"]
 
